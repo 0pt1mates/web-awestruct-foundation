@@ -34,3 +34,7 @@ bundle install
 awestruct -d
 
 and navigate to http://localhost:4242.
+
+== Deployment
+
+There is a handy script to set git repository to **0pt1mates.github.io** so I can let awestruct to deploy and resets the remote git url.
